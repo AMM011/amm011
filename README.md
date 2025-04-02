@@ -9,8 +9,8 @@
 
 📬 Want to reach out?
 
-- Personal email: amm.devcontact@gmail.com  
-- Institutional email: aluXXXXXXXX@ull.edu.es  
+- Personal email: alfredomorenomondragon@gmail.com  
+- Institutional email: alu0101515601@ull.edu.es  
 
 ---
 
