@@ -2,13 +2,12 @@
 
 ### Hey there, I'm Alfredo 👋
 
-</div>
-
 💻 Computer Science student at the University of La Laguna (ULL).  
 🚀 Passionate about cybersecurity, system-level programming, and building secure, high-performance applications that matter in real-world scenarios.  
 🧠 Always learning: currently diving deeper into **C++**, **JavaScript**, and **TypeScript**.  
 📂 Here on GitHub, you’ll find a mix of academic work, personal projects, and experiments with new technologies.
 
+</div>
 ---
 
 📬 Want to reach out?
