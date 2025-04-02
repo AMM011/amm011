@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hey there, I'm Alfredo 👋
 
 💻 Computer Science student at the University of La Laguna (ULL).  
@@ -15,3 +17,5 @@
 ---
 
 ⭐ *Driven by a deep curiosity for security-focused technology and a strong commitment to helping companies build safer and more resilient systems.*
+
+</div>
