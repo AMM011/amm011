@@ -1,4 +1,4 @@
-### Hey there, I'm AMM 👋
+### Hey there, I'm Alfredo 👋
 
 💻 Computer Science student at the University of La Laguna (ULL).  
 🚀 Passionate about cybersecurity, system-level programming, and building secure, high-performance applications that matter in real-world scenarios.  
