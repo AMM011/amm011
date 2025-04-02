@@ -11,8 +11,8 @@
 
 📬 Want to reach out?
 
-- Personal email: alfredomorenomondragon@gmail.com  
-- Institutional email: alu0101515601@ull.edu.es  
+Personal email: alfredomorenomondragon@gmail.com  
+Institutional email: alu0101515601@ull.edu.es  
 
 ---
 
