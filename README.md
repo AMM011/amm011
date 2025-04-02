@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there, I'm AMM 👋
 
-<!--
-**AMM011/amm011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at the University of La Laguna (ULL).  
+🚀 Passionate about cybersecurity, and building secure, high-performance applications that matter in real-world scenarios.
+🧠 Always learning: currently diving deeper into **C++** and **TypeScript**.  
+📂 Here on GitHub, you’ll find a mix of academic work, personal projects, and experiments with new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Want to reach out?
+
+- Personal email: alfredomorenomondragon@gmail.com
+- Institutional email: alu0101515601@ull.edu.es  
+
+---
+
+⭐ *Driven by a deep curiosity for security-focused technology and a strong commitment to helping companies build safer and more resilient systems.*
